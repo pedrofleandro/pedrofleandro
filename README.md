@@ -2,7 +2,7 @@
 
 - 💻 I'm Developer 
 - 🚀 Rocketseat student
-- 🔭 Enthusiast of the technological world
+- 🔭 Tech world enthusiast
 - 🎓 An eternal apprentice
 
 <div style="display: inline_block"><br>
