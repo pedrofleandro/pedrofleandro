@@ -1,4 +1,4 @@
-## Hi, I'm Pedro Leandro 😊
+# Hi, I'm Pedro Leandro 😊
 
 - 💻 I'm Developer 
 - 🚀 Rocketseat student
