@@ -1,9 +1,6 @@
-# Hi, I'm Pedro Leandro 😊
+Pedro Leandro 
 
-- 💻 I'm Developer 
-- 🚀 Rocketseat student
-- 🔭 Tech world enthusiast
-- 🎓 An eternal apprentice
+- 💻 Full-Stack Developer 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-Ts" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" >
